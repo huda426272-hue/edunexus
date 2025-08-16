@@ -1,0 +1,6 @@
+# See https://angular.io/guide/build#configuring-common-options
+/dist
+/node_modules
+/.angular
+/.vscode
+/.env
